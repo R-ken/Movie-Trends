@@ -15,3 +15,18 @@ Everything else is the data files from the movie data set. They have already bee
 
 Report document:
 https://docs.google.com/document/d/1RdMiaKG4A44JSZ9jlv8JZft-D5aCYILA5aD_NMBWSRs/edit?usp=sharing
+
+# How to Run
+
+The Project.py file can be run on its own with no required arguments. The file will calculate and print the p-values of different tests.
+All other python files can be run without arguments.
+
+# Required Libraries
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from scipy import stats
+from sklearn import preprocessing
