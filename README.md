@@ -1,9 +1,8 @@
 # 353Project
 
-project.py is the python program code for the project
+Everything was done originally with github and everything was transfered here for submission.
 
-
-Everything else is the data files from the movie data set. They have already been extracted for viewing.
+https://github.com/R-ken/353Project
 
 # What has been done so far
 
