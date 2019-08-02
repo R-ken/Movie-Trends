@@ -12,8 +12,6 @@ https://github.com/R-ken/353Project
 
 3. Predicting audience average based on audience percent, critic average, and critic percent
 
-Report document:
-https://docs.google.com/document/d/1RdMiaKG4A44JSZ9jlv8JZft-D5aCYILA5aD_NMBWSRs/edit?usp=sharing
 
 # How to Run
 
