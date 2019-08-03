@@ -1,8 +1,14 @@
 # 353Project
 
 Everything was done originally with github and everything was transfered here for submission.
+Please view the following link to see code contributions.
 
 https://github.com/R-ken/353Project
+
+Ken, Hoi == R-ken - Authored Project.py
+
+Eric Tempest == Wobrav - Authored predict_success_notebook.ipynb
+
 
 # What has been done so far
 
@@ -12,10 +18,14 @@ https://github.com/R-ken/353Project
 
 3. Predicting audience average based on audience percent, critic average, and critic percent
 
+4. Predicting whether a movie will have a good (>=80%) critic rating based on the cast 
+
 
 # How to Run
 
 The Project.py file can be run on its own with no required arguments. The file will calculate and print the p-values of different tests.
+
+To build the model for critic rating based on cast, the predict_success_notebook.ipynb should be run.
 
 # Required Libraries
 
