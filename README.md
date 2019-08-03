@@ -3,6 +3,9 @@
 Everything was done originally with github and everything was transfered here for submission.
 
 https://github.com/R-ken/353Project
+Ken, Hoi == R-ken
+Eric Tempest == Wobrav
+
 
 # What has been done so far
 
