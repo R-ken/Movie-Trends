@@ -16,7 +16,6 @@ https://github.com/R-ken/353Project
 # How to Run
 
 The Project.py file can be run on its own with no required arguments. The file will calculate and print the p-values of different tests.
-All other python files can be run without arguments.
 
 # Required Libraries
 
