@@ -5,7 +5,7 @@ Please view the following link to see code contributions.
 
 https://github.com/R-ken/353Project
 
-Ken, Hoi == R-ken - Authored Project.py
+Ken, Hoi == Rken - Authored Project.py
 
 Eric Tempest == Wobrav - Authored predict_success_notebook.ipynb
 
